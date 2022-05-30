@@ -39,7 +39,7 @@ export default function Gslr() {
               alignItems="center"
             >
               <Box> Logo </Box>
-              <VisuallyHidden>KawaiiPlat.xyz</VisuallyHidden>
+              <VisuallyHidden>KawaiiPlat Homepage</VisuallyHidden>
             </chakra.a>
             <chakra.h1 fontSize="xl" fontWeight="medium" ml="2">
               kawaiiPlat.xyz
