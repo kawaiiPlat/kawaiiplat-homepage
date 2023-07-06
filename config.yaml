@@ -1,5 +1,5 @@
 baseURL: 'http://kawaiiplat.xyz/'
-title: 'kawaiiplat.xyz'
+title: 'Jarrod Sanders'
 languageCode: 'en-us'
 paginate: 5
 theme: PaperMod
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: kawaiiplat.xyz
+  title: Jarrod Sanders
   description: "My Personal Site"
   keywords: [Portfolio, PaperMod]
   author: Jarrod Sanders
@@ -74,8 +74,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hello!"
+    Content: I am a student at the University of Florida persuing a BS in computer science.
 
   socialIcons:
     #- name: twitter
