@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://kawaiiplat.xyz/sitemap.xml

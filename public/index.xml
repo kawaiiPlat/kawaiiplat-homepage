@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jarrod Sanders</title>
+    <link>http://kawaiiplat.xyz/</link>
+    <description>Recent content on Jarrod Sanders</description>
+    <image>
+      <title>Jarrod Sanders</title>
+      <url>http://kawaiiplat.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kawaiiplat.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2023 23:14:23 -0400</lastBuildDate><atom:link href="http://kawaiiplat.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Not Both?</title>
+      <link>http://kawaiiplat.xyz/posts/whynotboth/</link>
+      <pubDate>Wed, 05 Jul 2023 23:14:23 -0400</pubDate>
+      
+      <guid>http://kawaiiplat.xyz/posts/whynotboth/</guid>
+      <description>How best to start editor hopping? IntelliJ &amp;amp; Android Studio My first serious coding experience was in Android Studio for FIRST Tech Challenge. When I started taking CS classes in college, that led in to using the free IntelliJ Ultimate licences for students during my Java heavy coursework.
+Visual Studio I was required to use Visual Studio for several classes, as the C++ assignments were built around solution files. I found the expreience less than enjoyable, and stopped using it as soon as possible.</description>
+    </item>
+    
+  </channel>
+</rss>
